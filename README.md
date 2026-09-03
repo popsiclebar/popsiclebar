@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pixel-me.png" width="260" alt="Pixel-art wizard holding a glowing green crystal staff" />
+  <img src="assets/wizard-flying-reading.gif" width="240" alt="Animated pixel-art wizard flying while reading a spellbook" />
 </p>
 
 <h1 align="center">Hi, I'm popsiclebar 👋</h1>
@@ -15,8 +15,6 @@
 ---
 
 I'm an MSc graduate who enjoys turning messy requirements and data into clear, reliable software. My current focus is building end-to-end products where backend engineering, data pipelines, and useful AI meet.
-
-A proactive collaborator and communicator, focused on delivering effective tech solutions.
 
 ## 🪄 Current quest
 
