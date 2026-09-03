@@ -14,7 +14,7 @@
 
 ---
 
-I'm an MSc graduate who enjoys turning messy requirements and data into clear, reliable software. My current focus is building end-to-end products where backend engineering, data pipelines, and useful AI meet.
+I'm an MSc graduate who enjoys building end-to-end products where software engineering, data pipelines, and practical AI meet. I'm a proactive collaborator and communicator, focused on delivering effective tech solutions.
 
 ## 🪄 Current quest
 
