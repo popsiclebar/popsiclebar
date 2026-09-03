@@ -14,7 +14,7 @@
 
 ---
 
-I'm an MSc graduate who enjoys building end-to-end products where software engineering, data pipelines, and practical AI meet. I'm a proactive collaborator and communicator, focused on delivering effective tech solutions.
+I'm an MSc graduate who enjoys building end-to-end products that bring together software engineering, data pipelines, and practical AI. As a proactive collaborator and communicator, I enjoy solving real-world problems and turning ideas into effective solutions.
 
 ## 🪄 Current quest
 
@@ -48,9 +48,10 @@ A local-first threat-detection pipeline exploring production-style event ingesti
 
 ## ✨ Off the keyboard
 
-- 🎮 I love exploring Azeroth in **World of Warcraft**.
-- 📷 I used to be a **food photographer**.
-- ☕ Good coffee is part of the development environment.
+* 🎮 Let's see what quests Azeroth has for me today...
+* 📷 Former food photographer — let the camera get the first bite.
+* ☕ Running on coffee, my favorite source of daily mana.
+
 
 <p align="center">
   <code>code</code> · <code>data</code> · <code>AI</code> · <code>coffee</code> · <code>side quests</code>
