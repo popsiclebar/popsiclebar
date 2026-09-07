@@ -34,7 +34,7 @@ I'm an MSc graduate who enjoys building end-to-end products that bring together 
 
 ## 🗺️ Projects
 
-### [AI Job Assistant](https://github.com/popsiclebar/ai_job_assistant)
+### [AI Job Seeking Assistant](https://github.com/popsiclebar/ai_job_seeking_assistant)
 
 A local-first assistant for discovering Swedish roles, evaluating fit, tailoring HTML application materials, and tracking applications. Built with FastAPI, Next.js, PostgreSQL, and a workflow-first approach to AI.
 
