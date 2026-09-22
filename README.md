@@ -27,12 +27,17 @@ I'm an MSc graduate who enjoys building end-to-end products that bring together 
 | | Technologies |
 |---|---|
 | **Languages** | `Python` `TypeScript` `JavaScript` `SQL` `Bash` |
-| **Backend & data** | `FastAPI` `PostgreSQL` `PySpark` `Kafka` `Redis` |
+| **Backend & data** | `FastAPI` `PostgreSQL` `Redis` |
+| **Data engineering** | `BigQuery` `Dataform` `Cloud Storage` `PySpark` `Kafka` `AWS Glue` `Athena` |
 | **Frontend** | `Next.js` `React` `HTML` `CSS` |
-| **Cloud & delivery** | `GCP` `AWS` `Docker` `Git` |
+| **Cloud & delivery** | `GCP` `AWS` `Cloud Run` `Workflows` `Lambda` `Step Functions` `Docker` `Terraform` `Git` |
 | **AI engineering** | `OpenAI API` `RAG` `structured LLM workflows` |
 
 ## 🗺️ Projects
+
+### [JobTech Data Pipeline](https://github.com/popsiclebar/jobtech-data-pipeline)
+
+A scheduled GCP data pipeline that preserves JobTech API snapshots in Cloud Storage, normalizes job data into BigQuery Silver tables, and builds tested Gold analytics with Dataform, Cloud Run Jobs, Workflows, and Terraform.
 
 ### [AI Job Seeking Assistant](https://github.com/popsiclebar/ai_job_seeking_assistant)
 
@@ -41,10 +46,6 @@ A local-first assistant for discovering Swedish roles, evaluating fit, tailoring
 ### [YouTube Trending Data Pipeline](https://github.com/popsiclebar/youtube-trending-data-pipeline)
 
 An AWS data lake that processes historical and live YouTube data through Bronze, Silver, and Gold layers using S3, Glue, PySpark, Lambda, Athena, and Step Functions.
-
-### [StreamGuard](https://github.com/popsiclebar/streamguard-threat-detection)
-
-A local-first threat-detection pipeline exploring production-style event ingestion, validation, feature extraction, anomaly scoring, and observable API design.
 
 ## ✨ Off the keyboard
 
