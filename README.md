@@ -47,9 +47,9 @@ A local-first assistant for discovering Swedish roles, evaluating fit, tailoring
 
 An AWS data lake that processes historical and live YouTube data through Bronze, Silver, and Gold layers using S3, Glue, PySpark, Lambda, Athena, and Step Functions.
 
-### [Healthcare Consultation Assistant](https://github.com/popsiclebar/healthcare-consultation-assistant) · [live demo](https://saas-liard-five.vercel.app)
+### [Healthcare Consultation Assistant](https://github.com/popsiclebar/healthcare-consultation-assistant) · [demo site](https://saas-liard-five.vercel.app)
 
-A web app that turns consultation notes into visit summaries, next steps, and patient emails, streaming OpenAI output to a Next.js frontend through FastAPI with Clerk authentication.
+A course-based web app that turns consultation notes into visit summaries, next steps, and patient emails, streaming OpenAI output to a Next.js frontend through FastAPI with Clerk authentication, deployed on Vercel and AWS App Runner.
 
 ### [StreamGuard Threat Detection](https://github.com/popsiclebar/streamguard-threat-detection)
 
