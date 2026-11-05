@@ -2,7 +2,7 @@
   <img src="assets/wizard-flying-reading.gif" width="240" alt="Animated pixel-art wizard flying while reading a spellbook" />
 </p>
 
-<h1 align="center">Hi, I'm popsiclebar 👋</h1>
+<h1 align="center">Hi, I'm Amy 👋</h1>
 
 <p align="center">
   <strong>Software development · Data engineering · AI engineering</strong>
@@ -46,6 +46,14 @@ A local-first assistant for discovering Swedish roles, evaluating fit, tailoring
 ### [YouTube Trending Data Pipeline](https://github.com/popsiclebar/youtube-trending-data-pipeline)
 
 An AWS data lake that processes historical and live YouTube data through Bronze, Silver, and Gold layers using S3, Glue, PySpark, Lambda, Athena, and Step Functions.
+
+### [Healthcare Consultation Assistant](https://github.com/popsiclebar/healthcare-consultation-assistant) · [live demo](https://saas-liard-five.vercel.app)
+
+A web app that turns consultation notes into visit summaries, next steps, and patient emails, streaming OpenAI output to a Next.js frontend through FastAPI with Clerk authentication.
+
+### [StreamGuard Threat Detection](https://github.com/popsiclebar/streamguard-threat-detection)
+
+An event-driven threat-detection pipeline with FastAPI and Kafka-compatible ingest, explainable anomaly scoring, dead-letter handling, Redis idempotency, and PostgreSQL history.
 
 ## ✨ Off the keyboard
 
